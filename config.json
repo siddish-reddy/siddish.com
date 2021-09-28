@@ -1,6 +1,6 @@
 {
-  "url": "https://www.notion.so/b6fcf809ca5047b89f423948dce013a0?v=03ddc4d6130a47f8b68e74c9d0061de2",
+  "url": "https://siddish.notion.site/e7cfde3be197420891385367dc88da05?v=cf6ba3a5f67a4cc986f148bff2114733",
   "theme": "pure-ejs",
-  "previewBrowser": "/usr/bin/chromium",
-  "autoSlug": true
+  "autoSlug": true,
+  "previewBrowser": "start chrome"
 }
