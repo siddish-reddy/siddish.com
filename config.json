@@ -1,5 +1,6 @@
 {
   "url": "https://siddish.notion.site/e7cfde3be197420891385367dc88da05?v=cf6ba3a5f67a4cc986f148bff2114733",
   "theme": "pure-ejs",
+  "autoSlug": true,
   "previewBrowser": "start chrome"
 }
